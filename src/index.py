@@ -1,6 +1,6 @@
 from varasto import Varasto
 
-# too long comment to test Pylint ----------------------------------------------------------------------------------------------------------------------
+
 def nayta_alkutilanne(mehua, olutta):
     print("Luonnin jälkeen:")
     print(f"Mehuvarasto: {mehua}")
